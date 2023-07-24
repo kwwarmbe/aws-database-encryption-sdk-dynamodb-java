@@ -7,14 +7,11 @@ BatchExecuteStatementTransform_Compile
 BatchGetItemTransform_Compile
 BatchWriteItemTransform_Compile
 CompoundBeacon_Compile
-CreateTableTransform_Compile
 DdbMiddlewareConfig_Compile
 DdbStatement_Compile
 DdbVirtualFields_Compile
 DeleteItemTransform_Compile
-DescribeTableTransform_Compile
 DynamoDBFilterExpr_Compile
-DynamoDBIndexSupport_Compile
 DynamoDBSupport_Compile
 DynamoDbEncryptionBranchKeyIdSupplier_Compile
 DynamoDbEncryptionUtil_Compile
@@ -42,7 +39,6 @@ TermLoc_Compile
 TransactGetItemsTransform_Compile
 TransactWriteItemsTransform_Compile
 UpdateItemTransform_Compile
-UpdateTableTransform_Compile
 _System
 com.amazonaws.services.dynamodbv2.datamodeling
 com.amazonaws.services.dynamodbv2.datamodeling.encryption
