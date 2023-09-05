@@ -692,8 +692,6 @@ module DynamoDBFilterExpr {
       true
     else if '0' <= ch <= '9' then
       true
-    else if ch == '_' then
-      true
     else
       false
   }
